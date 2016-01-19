@@ -1,0 +1,62 @@
+html, body{
+	font-family: Florence, cursive;
+	margin: 0;
+}
+header{
+	background-color: #F7D0E3;
+	padding: 50px;
+	text-align: center
+}
+
+h1{
+	font-style: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 550px;
+	border: 15px solid #F9F2E8;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-frame{
+	max-width: 100%
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: #D13373;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #F7D0E3 
+}
+
+ul{
+	text-align: center;
+	margin: 0 5px;
+}
+
+footer ul li{
+	display: inline;
+}
+
+
+/*<header>
+	<img src="https://s-media-cache-ak0.pinimg.com/236x/f6/c8/7c/f6c87cc98fd8c1e2b76ac0ef24c14b4a.jpg">
+	<h1>Chii</h1>
+</header>*/
