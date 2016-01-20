@@ -1,10 +1,10 @@
 html, body{
-	font-family: Florence, cursive;
+	font-family: 'Indie Flower', cursive;;
 	margin: 0;
 }
 header{
 	background-color: #F7D0E3;
-	padding: 50px;
+	padding: 40px;
 	text-align: center
 }
 
@@ -55,7 +55,9 @@ footer ul li{
 	display: inline;
 }
 
-
+.center{
+	text-align: center;
+}
 /*<header>
 	<img src="https://s-media-cache-ak0.pinimg.com/236x/f6/c8/7c/f6c87cc98fd8c1e2b76ac0ef24c14b4a.jpg">
 	<h1>Chii</h1>
